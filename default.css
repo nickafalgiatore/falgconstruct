@@ -208,7 +208,7 @@ body
 
 #secondaryContent
 {
-	float: right;
+	float: right;	
 	width: 14em;
 	padding: 1.5em 2em 1.5em 2em;
 	font-size: 0.9em;
@@ -241,4 +241,12 @@ body
 .clear
 {
 	clear: both;
+}
+
+/* Photo Pages */
+
+.image-table img
+{
+	height: 400px;
+	width: 500px;
 }
